@@ -1,10 +1,10 @@
-#El circulo con ia
+# El circulo con ia
 
-#María Juliana Alzate Saavedra 20232020082
+# María Juliana Alzate Saavedra 20232020082
 
 - prompt 1: crea un codigo de python en pygame con un circulo dibujado de 50x50 dentro de una pantalla de 900 x 700, haz que el circulo se mueva al presionar las teclas up, right, left, down
 
-#Resultado:  
+# Resultado:  
     Aquí tienes un código en Python utilizando Pygame que crea una ventana de 900x700 píxeles con un círculo de 50x50 píxeles. El círculo se puede mover utilizando las teclas de dirección:
 
       python
